@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.epam.Model","l":"BusinessLogic"},{"p":"com.epam.Controller","l":"Controller"},{"p":"com.epam.Controller","l":"IController"},{"p":"com.epam.Model","l":"IModel"},{"p":"com.epam","l":"Main"},{"p":"com.epam.View","l":"Printable"},{"p":"com.epam.Model","l":"Schema"},{"p":"com.epam.View","l":"View"}]
